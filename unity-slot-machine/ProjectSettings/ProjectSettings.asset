@@ -1,0 +1,20 @@
+%YAML 11.3
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 25
+  productName: Unity Slot Machine
+  companyName: SlotStudio
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_BuildTargetIcons: []
+  m_BuildTargetBatching: []
+  m_BuildTargetGraphicsJobs: []
+  m_BuildTargetGraphicsJobMode: []
+  defaultScreenManagerBehavior: 2
+  m_DefaultScreenWidth: 1920
+  m_DefaultScreenHeight: 1080
+  m_DefaultPixelRatio: 1
+  m_RenderingPath: 1
+  m_ActiveColorSpace: 0
